@@ -1,5 +1,7 @@
 ##Templates
 
-Some of the designs I worked on.
+Some designs I coded, for anyone who needs one. 
 
-- Fin -
+Also, built to spread my love for replicating web designs.
+
+\- Fin -
