@@ -12,14 +12,14 @@ Get a minimal hosting plan, upload this code, edit the content and add portfolio
 - User Friendly
 - Minimal
 
-###Dependencies
+###Dependencies 
 
-- Bootstap
+- Bootstrap
 - Jquery, Jquery UI
-- Modernizr
+- Modernizr by [Modernizr](https://github.com/modernizr/modernizr)
 - Jquery UI Touch Punch by [@furf](https://github.com/furf)
 - Ink Transition by [@codyhouse](https://github.com/CodyHouse)
 
 *Demo* : @[atulbhats.com](http://atulbhats.com/demo/artista)
 
-- Fin -
+\- Fin -
