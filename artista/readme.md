@@ -24,4 +24,4 @@ Get a minimal hosting plan, upload this code, edit the content and add portfolio
 
 *Demo* : @[atulbhats.com](http://atulbhats.com/demo/artista)
 
-\- Fin -
+\- _Fin_ -
