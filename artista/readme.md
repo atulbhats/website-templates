@@ -12,6 +12,8 @@ Get a minimal hosting plan, upload this code, edit the content and add portfolio
 - User Friendly
 - Minimal
 
+###See the Demo: [atulbhats.github.io/artista](http://atulbhats.github.io/artista)
+
 ###Dependencies 
 
 - Bootstrap
