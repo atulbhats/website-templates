@@ -1,4 +1,4 @@
-##Artista - Website Theme
+### Artista - Website Theme
 
 A single page website for a budding artist with modals designed to act like pages. 
 
@@ -12,9 +12,9 @@ Get a minimal hosting plan, upload this code, edit the content and add portfolio
 - User Friendly
 - Minimal
 
-###See the Demo: [atulbhats.github.io/artista](http://atulbhats.github.io/artista)
+### See the Demo: [atulbhats.github.io/artista](http://atulbhats.github.io/artista)
 
-###Dependencies 
+### Dependencies 
 
 - Bootstrap
 - Jquery, Jquery UI
